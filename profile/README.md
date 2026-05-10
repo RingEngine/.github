@@ -25,7 +25,7 @@ The long-term goal is to make filter creation more reliable and more shareable, 
 ## Current Repositories
 
 - `Docs`: standards, schemas, and specification documents
-- `CompilerJs`: compiler core, packer, and CLI tooling
+- `compiler-js`: compiler core, packer, and CLI tooling
 
 ## Vision
 
@@ -60,7 +60,7 @@ RingEngine 是一个开源项目，致力于构建现代化的滤镜引擎与滤
 ## 当前仓库
 
 - `Docs`：标准、schema 与规范文档
-- `CompilerJs`：编译器核心、打包器与 CLI 工具
+- `compiler-js`：编译器核心、打包器与 CLI 工具
 
 ## 愿景
 
